@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @code-marisana
+- 👀 I’m interested in building software for startups
+- 🌱 I’m currently learning back-end developmemt with ALX
+- 💞️ I’m looking to collaborate on learning software engineering
+- 📫 How to reach me (https://x.com/code_marisana)
+- 😄 Pronouns: O/o
+- ⚡ Fun fact: The One Piece Exists!!
