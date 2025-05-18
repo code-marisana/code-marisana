@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on learning software engineering
 - 📫 How to reach me (https://x.com/code_marisana)
 - 😄 Pronouns: O/o
-- ⚡ Fun fact: The One Piece Exists!!
+- ⚡ Fun fact: The One Piece Exists!!!
